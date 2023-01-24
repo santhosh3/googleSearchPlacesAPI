@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "india",
+    "description": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world."
+  },
+  {
+    "id": "2",
+    "name": "telangana",
+    "description": "Telangana is a state in southern India. In the capital of Hyderabad, the Charminar is a 16th-century mosque with 4 arches supporting 4 towering minarets. The monument overlooks the city's long-running Laad Bazaar. Once the seat of the Qutb Shahi dynasty, the sprawling Golconda Fort is a former diamond-trading center. In the city of Warangal, the centuries-old Warangal Fort features carved stone towers and gateways."
+  },
+  {
+    "id": "3",
+    "name": "ap",
+    "description": "Andhra Pradesh is a state in the south-eastern coastal region of India. It is the seventh-largest state by area covering an area of 162,975 km² and tenth-most populous state with 49,386,799 inhabitants."
+  },
+  {
+    "id": "4",
+    "name": "delhi",
+    "description": "Delhi, India’s capital territory, is a massive metropolitan area in the country’s north. In Old Delhi, a neighborhood dating to the 1600s, stands the imposing Mughal-era Red Fort, a symbol of India, and the sprawling Jama Masjid mosque, whose courtyard accommodates 25,000 people. Nearby is Chandni Chowk, a vibrant bazaar filled with food carts, sweets shops and spice stalls."
+  },
+  {
+    "id": "5",
+    "name": "maharasta",
+    "description": "Maharashtra is a state in the western peninsular region of India occupying a substantial portion of the Deccan Plateau. Maharashtra is the second-most populous state in India and the second-most populous country subdivision globally."
+  },
+  {
+    "id": "6",
+    "name": "karnataka",
+    "description": "Karnataka is a state in southwest India with Arabian Sea coastlines. The capital, Bengaluru (formerly Bangalore), is a high-tech hub known for its shopping and nightlife. To the southwest, Mysore is home to lavish temples including Mysore Palace, former seat of the region’s maharajas. Hampi, once the medieval Vijayanagara empire’s capital, contains ruins of Hindu temples, elephant stables and a stone chariot."
+  },
+  {
+    "id": "7",
+    "name": "kerla",
+    "description": "Kerala, a state on India's tropical Malabar Coast, has nearly 600km of Arabian Sea shoreline. It's known for its palm-lined beaches and backwaters, a network of canals. Inland are the Western Ghats, mountains whose slopes support tea, coffee and spice plantations as well as wildlife. National parks like Eravikulam and Periyar, plus Wayanad and other sanctuaries, are home to elephants, langur monkeys and tigers."
+  },
+  {
+    "id": "8",
+    "name": "tirupathi",
+    "description": "Tirupati is a city in the Indian state of Andhra Pradesh. Its Sri Venkateswara Temple sits atop one of the the 7 peaks of Tirumala Hills, attracting scores of Hindu pilgrims. Sri Venkateswara National Park, home to the temple, also contains the Sri Venkateswara Zoological Park with lions and primates. Nearby, next to a waterfall and cave believed to be sacred, Sri Kapileswara Swamy Temple is dedicated to Lord Shiva."
+  },
+  {
+    "id": "9",
+    "name": "patna",
+    "description": "Patna is an ancient city that sprawls along the south bank of the Ganges River in Bihar, northeast India. The state capital, it’s home to Bihar Museum, a contemporary landmark exhibiting bronze sculptures and old coins from the region. Nearby, Indo-Saracenic–style Patna Museum displays a casket believed to contain the Buddha’s ashes. Close to the river, the Golghar is a domed colonial granary overlooking the city."
+  },
+  {
+    "id": "10",
+    "name": "assam",
+    "description": "Assam is a state in northeastern India known for its wildlife, archeological sites and tea plantations. In the west, Guwahati, Assam’s largest city, features silk bazaars and the hilltop Kamakhya Temple. Umananda Temple sits on Peacock Island in the Brahmaputra river. The state capital, Dispur, is a suburb of Guwahati. The ancient pilgrimage site of Hajo and Madan Kamdev, the ruins of a temple complex, lie nearby."
+  },
+  {
+    "id": "11",
+    "name": "bihar",
+    "description": "Bihar is a state in East India, bordering Nepal. It is divided by the River Ganges, which floods its fertile plains. Important Buddhist pilgrimage sites include the Bodhi Tree in Bodhgaya's Mahabodhi Temple, under which the Buddha allegedly meditated. In the state capital Patna, Mahavir Mandir temple is revered by Hindus, while Sikhs worship at the domed, riverside Gurdwara of Takht Sri Harmandir Sahib Ji."
+  },
+  {
+    "id": "12",
+    "name": "srisailam",
+    "description": "Srisailam is a census town in Nandyal district of the Indian state of Andhra Pradesh. It is the mandal headquarters of Srisailam mandal in Atmakur revenue division."
+  },
+  {
+    "id": "13",
+    "name": "shiridi",
+    "description": "Shirdi is a town in the state of Maharashtra, in western India. It's known as the former home of revered spiritual leader Sai Baba, and as a major pilgrimage site. Devotees gather daily at the Sai Baba Temple complex to honor his legacy. Here, the Samadhi Mandir shrine has an ornate marble statue of Sai Baba, alongside his tomb. Close by are Dwarkamai, a mosque where Sai Baba once lived, and tree-lined Lendi Garden."
+  },
+  {
+    "id": "14",
+    "name": "washingtondc",
+    "description": "Washington, DC, the U.S. capital, is a compact city on the Potomac River, bordering the states of Maryland and Virginia. It’s defined by imposing neoclassical monuments and buildings – including the iconic ones that house the federal government’s 3 branches: the Capitol, White House and Supreme Court. It's also home to iconic museums and performing-arts venues such as the Kennedy Center."
+  }
+]
